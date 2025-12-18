@@ -45,4 +45,5 @@ Prepare for data analyst internships and entry-level roles
 Build a professional GitHub and LinkedIn profile
 
 📫 Connect With Me
+
 Email: nagtamanna1@gmail.com
