@@ -1,45 +1,60 @@
-# 👋 Hi, I'm Tamanna Nag  
-### 🚀 Aspiring Machine Learning Engineer | Python | Data Science | Deep Learning Enthusiast
+👋 Hi, I'm Tamanna Nag
+📊 Aspiring Data Analyst | Python | SQL | Data Analytics
 
-I am a B.Sc. Computer Science student passionate about building real-world AI/ML projects.  
-I enjoy working with Python, machine learning models, and creating end-to-end applications that solve practical problems.
+I am a B.Sc. Computer Science student focused on working with data to extract insights, identify patterns, and support data-driven decision-making.
+I enjoy analyzing datasets, cleaning data, and presenting insights through clear visualizations.
 
 Currently building my skills in:
-- Machine Learning  
-- Deep Learning (CNNs, NLP)  
-- Data Preprocessing & Visualization  
-- Python Development  
-- SQL & Databases  
-- Web Integration with ML Models  
 
----
+Data Analysis & Reporting
 
-## 🔧 Tech Stack  
-- **Languages:** Python, SQL, HTML, CSS  
-- **ML Tools:** Scikit-Learn, TensorFlow (Basics), Jupyter  
-- **Tools:** Git, VS Code, Jupyter Notebook  
-- **Databases:** MySQL, SQLite  
+Data Cleaning & Preprocessing
 
----
+Exploratory Data Analysis (EDA)
 
-## 📂 Featured Projects  
-### 🥭 NutriScan AI – Fruit Ripeness & Nutrition Detection  
-An ML-powered system to identify fruit ripeness and provide nutritional insights using image classification (CNN).  
-**Tech:** Python, CNN, HTML/CSS, SQLite  
+Data Visualization
 
-### ❤️ Health Care System  
-A Python + MySQL application for managing health-related records.
+Python for Data Analytics
 
----
+SQL & Relational Databases
 
-## 📈 Current Goals  
-- Build 5+ ML projects  
-- Learn Deep Learning & NLP  
-- Deploy ML models using FastAPI/Streamlit  
-- Grow my GitHub with high-quality AI/ML work  
-- Create my LinkedIn & portfolio website  
+🔧 Tech Stack
 
----
+Languages: Python, SQL
 
-## 📫 Connect With Me  
-📧 Email: **nagtamanna1@gmail.com**  
+Data Analysis: Pandas, NumPy, Excel
+
+Visualization: Matplotlib, Seaborn
+
+Databases: MySQL, SQLite
+
+Tools: Jupyter Notebook, GitHub, VS Code
+
+📂 Featured Projects
+📊 NutriScan – Nutrition Data Analysis
+
+
+Analyzed food and nutrition-related datasets, performed data cleaning and exploratory data analysis, and visualized trends to support nutrition insights.  
+Tech: Python, Pandas, NumPy, Matplotlib
+
+
+❤️ Health Care Data Management System
+
+A Python and SQL-based system for managing and analyzing healthcare-related records.
+Tech: Python, MySQL
+
+📈 Current Goals
+
+Build strong, real-world data analytics projects
+
+Improve SQL querying and data analysis skills
+
+Create insight-driven visualizations and reports
+
+Prepare for data analyst internships and entry-level roles
+
+Build a professional GitHub and LinkedIn profile
+
+📫 Connect With Me
+
+📧 Email: nagtamanna1@gmail.com
